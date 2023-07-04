@@ -238,3 +238,5 @@ Neataptic offers flexible neural networks; neurons and synapses can be removed w
 1)  https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures 
 
 2)   https://datascience.stackexchange.com/questions/2670/visualizing-deep-neural-network-training
+
+end
